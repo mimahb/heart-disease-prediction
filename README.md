@@ -1,7 +1,7 @@
 # heart-disease-prediction
 A machine learning project to predict the likelihood of heart disease based on various health metrics. This project utilizes classification models to identify high-risk individuals, aiding in early detection and intervention.
 
-Features
+## Features
 Predictive Model: Predicts the risk of heart disease (1 = High Risk, 0 = Low Risk).
 Feature Engineering: Utilizes categorical encoding and feature scaling for better model performance.
 Interactive Visualizations: Displays relationships between features and the target variable.
@@ -13,7 +13,7 @@ Data Manipulation: Pandas, NumPy
 Visualization: Matplotlib, Seaborn
 Machine Learning: Scikit-learn
 
-Results
+## Results
 The Logistic Regression model achieved:
 
 Accuracy: 91%
